@@ -49,4 +49,4 @@ console.log(stat.isDirectory())
 //     console.log(c,p)
 // })
 
-//文件流
+//文件流Riverdale
