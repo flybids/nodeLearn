@@ -3,6 +3,7 @@ node_modules/
 /dist/
 /prod/
 /db/
+musicDemo/MPlaer
 /MPlaer/
 npm-debug.log*
 yarn-debug.log*
